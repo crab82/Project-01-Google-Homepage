@@ -2,7 +2,7 @@ ul {
     list-style-type: none;
 }
 
-li {
+li.nav {
     display: block;
     font-size: 12px;
     float: left;
@@ -38,5 +38,27 @@ p {
     text-align: center;
     font-size: 13px;
     padding: 50px 0 0 0;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(240, 236, 236);     
+}
+
+li.footer {
+    display: block;
+    font-size: 12px;
+    float: left;
+    padding:15px 20px;
+    border-style: solid;
+    border-color: white;
+    
+
+     
+     
+}#Canada {
+    
 }
 
